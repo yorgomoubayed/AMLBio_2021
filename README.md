@@ -1,4 +1,4 @@
-# BlackBoxOptimizer
+# AMLBio_2021
 * Modular Implementation of Bayesian Optimization With XGBregressor
 
 ## Availble On Google Colab
