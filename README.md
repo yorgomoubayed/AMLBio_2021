@@ -9,7 +9,4 @@
 * All functions have Help as DocString (i.e. Help(Name of Function))
 
 ### Support
-* Feel free to contact at: amlbio2021@gmail.com
-
-### How to cite:
-* please cite this paper:
+* Feel free to contact at: amlbio2021@gmail.com or open an issue.
